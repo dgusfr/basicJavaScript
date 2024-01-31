@@ -74,17 +74,14 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **7.js**: Programa onde uma função calcule o máximo divisor comum (MDC) de dois números.
 - **8.js**: Programa onde uma função ordene uma lista de números em ordem crescente.
 - **9.js**: Programa onde uma função calcule a média de uma lista de números.
-- **10.js**: Programa onde uma função verifique se uma string contém apenas letras maiúsculas.
-- **11.js**: Programa onde uma função calcule o perímetro de um quadrado dado o comprimento do lado.
-- **12.js**: Programa onde uma função verifique se um número é par.
-- **13.js**: Programa onde uma função encontre o menor número de uma lista de números.
-- **14.js**: Programa onde uma função calcule a média ponderada de uma lista de números e seus respectivos pesos.
-- **15.js**: Programa onde uma função converta uma temperatura de Fahrenheit para Celsius.
-- **16.js**: Programa onde uma função verifique se uma palavra contém uma determinada sequência de letras.
-- **17.js**: Programa onde uma função calcule o mínimo múltiplo comum (MMC) de dois números.
-- **18.js**: Programa onde uma função ordene uma lista de strings em ordem alfabética.
-- **19.js**: Programa onde uma função calcule a mediana de uma lista de números.
-- **20.js**: Programa onde uma função verifique se uma string contém apenas caracteres alfanuméricos.
+- **10.js**: Programa onde uma função calcule o perímetro de um quadrado dado o comprimento do lado.
+- **11.js**: Programa onde uma função verifique se um número é par.
+- **12.js**: Programa onde uma função encontre o menor número de uma lista de números.
+- **13.js**: Programa onde uma função calcule a média ponderada de uma lista de números e seus respectivos pesos.
+- **14.js**: Programa onde uma função calcule o mínimo múltiplo comum (MMC) de dois números.
+- **15.js**: Programa onde uma função ordene uma lista de strings em ordem alfabética.
+- **16.js**: Programa onde uma função calcule a mediana de uma lista de números.
+- **17.js**: Programa onde uma função verifique se uma string contém apenas caracteres alfanuméricos.
 
 ## Funcionalidades:
 
@@ -96,6 +93,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 1. Clone o repositório
 2. Navegue até o diretório: `cd nome-do-repositorio`
 3. Execute cada programa com o seu HTML correspondente no Browser desejado.
+   Caso o mesmo não possua um HTML correspondente basta rodar o comando 'node arquivo.js'
    Recomendo fortemente a utilização da extensão para VSCODE: lIVE Server
 
 ## Estrutura do Projeto:
@@ -110,12 +108,12 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 
   - 1.js
   - ...
-  - 20.js
+  - 19.js
 
-- **EstruturaRepetição**
+- **Funções**
   - 1.js
   - ...
-  - 20.js
+  - 17.js
 
 ## Autor
 
