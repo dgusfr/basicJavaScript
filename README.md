@@ -56,13 +56,12 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **11.js**: Programa que verifique se uma string contém apenas letras minúsculas.
 - **12.js**: Programa que remova todos os caracteres especiais de uma string.
 - **13.js**: Programa que conte o número de ocorrências de uma determinada letra em uma string.
-- **14.js**: Programa que capitalize (Transforma em Maiúscula) a primeira letra de uma string.
+- **14.js**: Programa que capitalize (Transforma em Maiúscula) a primeira letra de de todas as palavras em uma string.
 - **15.js**: Programa que verifique se uma string termina com uma determinada palavra.
 - **16.js**: Programa que crie um acrônimo a partir de uma frase.
-- **17.js**: Programa que remova todos os espaços de uma string.
-- **18.js**: Programa que inverta as palavras de uma frase.
-- **19.js**: Programa que substitua todas as vogais em uma string por um asterisco.
-- **20.js**: Programa que verifique se uma string contém apenas números.
+- **17.js**: Programa que inverta as palavras de uma frase.
+- **18.js**: Programa que substitua todas as vogais em uma string por um asterisco.
+- **19.js**: Programa que verifique se uma string contém apenas números.
 
 **Funções:**
 
