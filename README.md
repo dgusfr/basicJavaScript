@@ -51,12 +51,12 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **6.js**: Programa que conte o número de ocorrências de uma determinada palavra em uma frase.
 - **7.js**: Programa que remova os espaços em branco de uma string.
 - **8.js**: Programa que verifique se uma string contém apenas dígitos.
-- **9.js**: Programa que capitalize a primeira letra de cada palavra em uma frase.
+- **9.js**: Programa que capitalize (Transforma em Maiúscula) a primeira letra de cada palavra em uma frase.
 - **10.js**: Programa que concatene duas strings separadas por um espaço.
 - **11.js**: Programa que verifique se uma string contém apenas letras minúsculas.
 - **12.js**: Programa que remova todos os caracteres especiais de uma string.
 - **13.js**: Programa que conte o número de ocorrências de uma determinada letra em uma string.
-- **14.js**: Programa que capitalize a primeira letra de uma string.
+- **14.js**: Programa que capitalize (Transforma em Maiúscula) a primeira letra de uma string.
 - **15.js**: Programa que verifique se uma string termina com uma determinada palavra.
 - **16.js**: Programa que crie um acrônimo a partir de uma frase.
 - **17.js**: Programa que remova todos os espaços de uma string.
