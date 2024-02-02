@@ -22,9 +22,9 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 
 ## Status
 
-![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
+<!-- ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge) -->
 
-<!-- ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge) -->
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 ## Descrição:
 
@@ -79,9 +79,11 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **12.js**: Programa onde uma função encontre o menor número de uma lista de números.
 - **13.js**: Programa onde uma função calcule a média ponderada de uma lista de números e seus respectivos pesos.
 - **14.js**: Programa onde uma função calcule o mínimo múltiplo comum (MMC) de dois números.
-- **15.js**: Programa onde uma função ordene uma lista de strings em ordem alfabética.
-- **16.js**: Programa onde uma função calcule a mediana de uma lista de números.
-- **17.js**: Programa onde uma função verifique se uma string contém apenas caracteres alfanuméricos.
+
+**Bonus:**
+
+- **math.js**
+- **operadores.js**
 
 ## Funcionalidades:
 
@@ -113,7 +115,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **Funções**
   - 1.js
   - ...
-  - 17.js
+  - 14.js
 
 ## Autor
 
